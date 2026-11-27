@@ -64,14 +64,88 @@ me.say_hello()
 
 ## `03` / FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🧠 Face Recognition Attendance | Automated attendance using MTCNN, deep learning face encodings and OpenCV. |
-| 🛡️ AI-Based Threat Detection | AI-powered threat detection with Telegram and Slack integrations. |
-| 📊 Insurance Cost Prediction | Machine learning model for insurance cost prediction. |
-| 🧾 InvoiceFlow | Invoice management and automation project. |
-| 🍲 Recipe Recommendation | Recommendation system for discovering recipes. |
-| 🧬 Disease Detection | AI-based Alzheimer's and Parkinson's detection project. |
+## `03` / FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏋️ RepSense</h3>
+
+AI-powered fitness coach with real-time squat detection and workout analytics.
+
+<a href="https://github.com/Arjunjai18/RepSense">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 Attendance System</h3>
+
+Face recognition attendance system built with FaceNet, FAISS and Flask for real-time webcam attendance.
+
+<a href="https://github.com/Arjunjai18/Attendance-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 Insurance Cost Prediction</h3>
+
+Machine learning model that predicts individual medical insurance costs using health and demographic data.
+
+<a href="https://github.com/Arjunjai18/insurance-cost-prediction">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💻 Personal Portfolio</h3>
+
+Personal portfolio website showcasing projects, technical skills and experience.
+
+<a href="https://github.com/Arjunjai18/arjun-portfolio">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧾 Invoice Project</h3>
+
+Invoice-related project showcasing software development and project implementation.
+
+<a href="https://github.com/Arjunjai18/invoice">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ More Projects</h3>
+
+Explore my GitHub repositories for more experiments, development projects and technical work.
+
+<a href="https://github.com/Arjunjai18?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## `04` / GITHUB STATISTICS
 
