@@ -22,7 +22,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Arjun Jai"
+        self.name = "Jaiarjun"
         self.role = "AI/ML Engineer"
         self.education = "B.E. Computer Science Engineering"
         self.interests = [
