@@ -14,30 +14,24 @@
 </div>
 
 ---
+## 01 / ABOUT ME
 
-## `01` / ABOUT ME
+<p align="center">
+  <strong>AI / MACHINE LEARNING ENGINEER</strong>
+  <br>
+  Building intelligent solutions through AI, machine learning
+  and software development.
+</p>
 
 ```python
 class AIEngineer:
-    def __init__(self):
-        self.name = "Jaiarjun"
-        self.role = "AI/ML Engineer"
-        self.education = "B.E. Computer Science Engineering"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics",
-            "Software Development"
-        ]
-        self.mindset = "Learn. Build. Improve. Repeat."
+    name = "Jai Arjun"
+    role = "AI/ML Engineer"
+    education = "B.E. Computer Science and Engineering"
+    interests = ["AI", "Machine Learning", "Deep Learning",
+                 "Data Analytics", "Software Development"]
 
-    def say_hello(self):
-        print("Building intelligent solutions for real-world problems.")
-
-me = AIEngineer()
-me.say_hello()
-```
+    motto = "Learn. Build. Improve. Repeat."
 
 - 🎓 Computer Science and Engineering graduate.
 - 🤖 Interested in building practical AI and Machine Learning solutions.
