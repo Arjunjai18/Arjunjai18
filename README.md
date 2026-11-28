@@ -27,7 +27,7 @@
 class AIEngineer:
     name = "Jai Arjun"
     role = "AI/ML Engineer"
-    education = "B.E. Computer Science and Engineering"
+    education = "B.TECH Computer Science and Engineering"
     interests = ["AI", "Machine Learning", "Deep Learning",
                  "Data Analytics", "Software Development"]
 
